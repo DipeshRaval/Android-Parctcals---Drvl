@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pract 5</string>
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="button_loc">Open Location</string>
+    <string name="name">Dipesh Raval</string>
+
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+    <string name="hintUrl">Enter your url</string>
+    <string name="hintLoc">Enter Your Location</string>
+    <string name="hintText">Enter a Text to shere</string>
+</resources>
