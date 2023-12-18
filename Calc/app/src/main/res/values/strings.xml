@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="sum">+</string>
+    <string name="resultBtn">Result</string>
+    <string name="text2">Enter Number 2</string>
+    <string name="text1">Enter Number 1</string>
+    <string name="hesding">Calculator</string>
+</resources>

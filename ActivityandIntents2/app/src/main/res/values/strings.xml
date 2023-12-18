@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity and Intents</string>
+    <string name="sendBtn">send</string>
+    <string name="message_recived">Message Recived</string>
+    <string name="reply_message">reply Message</string>
+    <string name="sendHint">Enter a Message to Send</string>
+    <string name="replyBtn">reply</string>
+    <string name="send_message">send Message</string>
+    <string name="text_head_main">Reply Recived</string>
+</resources>
